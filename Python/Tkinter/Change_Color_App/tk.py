@@ -1,5 +1,5 @@
 from tkinter import *
-from Python.Tkinter.Change_Color_App.define import *
+from define import *
 
 cuaso = Tk()
 
@@ -21,7 +21,7 @@ def setup_window():
     cuaso.resizable(False,False)
     
     #Label
-    label=Label(cuaso,text="HELLO",fg=FG,bg=BG,).pack()
+    label=Label(cuaso,text="HELLO",fg="#000000",bg="#FFFFFF").pack()
 
 setup_window()
 
