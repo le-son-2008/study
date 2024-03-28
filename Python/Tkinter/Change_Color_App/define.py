@@ -3,7 +3,11 @@ CHIEU_CAO = 400
 CACH_HOANH = 0
 CACH_TUNG = 0
 
-FG='#104C91'
-BG='#1F8AC0'
+BLACK="#000000"
+WHITE="#FFFFFF"
+RED="#FF0000"
+LIME="#00FF00"
+BLUE="#0000FF"
+YELLOW="#FFFF00"
 
-FILE = "C:\\Users\\Admin\\Downloads\\nro.png"
+ICON = "C:\\Users\\Administrator\\Downloads\\whitespot.png"
