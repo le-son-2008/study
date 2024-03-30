@@ -1,8 +1,8 @@
 def sotuman(n=str):
     s=0
-    for i in n: 
+    for i in n:  # type: ignore
         s+=int(i)**3
-    if s==int(n):
+    if s==int(n): # type: ignore
         return str(s)
 lst=[]
 lst_2=[]
